@@ -2794,7 +2794,6 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <text x="81.28" y="38.1" size="1.27" layer="98"></text>
 <text x="22.86" y="269.24" size="1.4224" layer="91"></text>
 <text x="22.86" y="266.7" size="1.4224" layer="91"></text>
-<text x="5.08" y="7.62" size="1.778" layer="98" ratio="16">Worldwide grid voltage compatible: 90-260 VAC 50-60 Hz.</text>
 <text x="68.834" y="185.42" size="1.27" layer="98"></text>
 <text x="162.56" y="144.78" size="1.27" layer="98"></text>
 <text x="5.08" y="12.7" size="2.1844" layer="98">Luke Weston, 2012</text>
